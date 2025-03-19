@@ -1,5 +1,5 @@
 {
-  "name": "vite-imagetools",
+  "name": "@dmitrytavern/vite-imagetools",
   "description": "Load and transform images using a toolbox of import directives!",
   "version": "7.0.5",
   "type": "module",

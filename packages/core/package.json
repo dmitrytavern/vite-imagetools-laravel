@@ -1,5 +1,5 @@
 {
-  "name": "imagetools-core",
+  "name": "@dmitrytavern/imagetools-core",
   "version": "7.0.2",
   "type": "module",
   "types": "dist/index.d.ts",
