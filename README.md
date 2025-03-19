@@ -1,5 +1,7 @@
 # Imagetools
 
+This repository has been cloned, slightly modified and will be abandoned once the same functionality is available in the [original repository](https://github.com/JonasKruckenberg/imagetools).
+
 A toolbox of easy-to-use import directives that transform and optimize your images at compile-time. All of the image
 transformations are powered by [sharp](https://sharp.pixelplumbing.com).
 
